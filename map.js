@@ -6,7 +6,7 @@ function map(arr) {
     newArr.push(arr[index].length);
     // console.log("str is " + str + " index is " + index + " arr is " + arr)
   });
-  return(newArr);
+  return newArr;
 }
 
 
